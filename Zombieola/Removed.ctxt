@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Removed
+comment1.params=pID\ pMin\ pMax\ x\ y
+comment1.target=Removed(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=target
+comment4.target=void\ attack(Person)
+numComments=5

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=pID\ pMin\ pMax
+comment1.target=Person(int,\ int,\ int)
+comment10.params=
+comment10.target=int\ getX()
+comment11.params=
+comment11.target=int\ getY()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=target
+comment3.target=void\ attack(Person)
+comment4.params=other
+comment4.target=void\ formGroup(Person)
+comment5.params=dmg
+comment5.target=void\ takeDamage(int)
+comment6.params=
+comment6.target=boolean\ isAlive()
+comment7.params=other
+comment7.target=boolean\ shareLocation(Person)
+comment8.params=
+comment8.target=int\ checkGroupSize()
+comment9.params=
+comment9.target=int\ getID()
+numComments=12
