@@ -1,0 +1,4 @@
+*.class
+*.ctxt
+*.iml
+.DS_Store
